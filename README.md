@@ -1,7 +1,10 @@
 # Unsupervised-Booking-Jobs-category-prediction
 Author- Suraj Prakash Patil
+
 Date- 16/05/2024
+
 Topic- Unsupervised Booking Jobs category prediction
+
 Dataset- https://www.kaggle.com/datasets/niekvanderzwaag/bookingcom-job-listings
 __________________________________________________________________________________
 
